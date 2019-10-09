@@ -6,7 +6,6 @@ def my_each(array)
   end 
     array
     puts "Hey! No block was given!"
-  end
 end
 
 =begin
